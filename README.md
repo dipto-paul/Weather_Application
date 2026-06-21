@@ -1,6 +1,6 @@
 # Weather App 🌦️
 
-A modern and user-friendly weather application built using **Swift** and **UIKit** in **Xcode**. This app integrates a weather API to provide accurate, real-time weather information based on the user's selected location.
+A modern and user-friendly weather application built using **Swift** and **UIKit** in **Xcode**. The app integrates a weather API to provide accurate, real-time weather information based on the user's selected location and supports both **Light Mode** and **Dark Mode** for an enhanced user experience.
 
 ## ✨ Features
 
@@ -8,6 +8,8 @@ A modern and user-friendly weather application built using **Swift** and **UIKit
 * Fetch real-time weather data using a Weather API
 * Display current temperature and weather conditions
 * Dynamic weather icons based on weather conditions
+* Support for both Light Mode and Dark Mode
+* Automatically adapts the UI based on the selected appearance mode
 * Clean and intuitive user interface
 * Built entirely with UIKit
 * Responsive and beginner-friendly project structure
@@ -22,16 +24,6 @@ A modern and user-friendly weather application built using **Swift** and **UIKit
 * **Architecture:** MVC
 
 
-
-## 🔑 API Configuration
-
-This project requires a Weather API key.
-
-1. Create an account on your preferred weather service provider.
-2. Generate an API key.
-3. Replace the placeholder API key in the project with your own key.
-
-
 ## 🎯 Learning Objectives
 
 This project was created to practice and strengthen knowledge in:
@@ -44,6 +36,7 @@ This project was created to practice and strengthen knowledge in:
 * Asynchronous programming
 * Error handling
 * MVC architecture
+* Implementing Light and Dark Mode support
 
 ## 📚 What I Learned
 
@@ -52,7 +45,8 @@ This project was created to practice and strengthen knowledge in:
 * Handling asynchronous network requests
 * Updating UI with fetched data
 * Managing user input and search functionality
-* Implementing clean and maintainable code
+* Implementing adaptive UI for Light and Dark Mode
+* Structuring iOS projects effectively
 
 ## 🤝 Contributing
 
